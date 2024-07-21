@@ -49,7 +49,7 @@ if (pgno == 1)
     
     onefootericons.style.display="flex";
 }
-
+submitbutton.style.display="";
 //show the page
 onepage.style.display="flex";
 onetitle.style.display="flex";
